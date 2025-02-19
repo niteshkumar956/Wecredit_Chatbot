@@ -54,8 +54,8 @@ def get_response(prompt):
 
 
 def main():
-    st.title("Google GenAI-powered Fintech Chatbot")
-    st.write("You can ask me about loans, interest rates, credit reports, and more.")
+    st.title("Google GenAI-powered Webcredit Chatbot")
+    st.write("You can ask me about loans, interest rates, credit reports, and more i am ready to help you")
 
     user_input = st.text_input("You:", "")
     if st.button("Send"):
