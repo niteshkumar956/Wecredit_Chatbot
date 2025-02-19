@@ -1,1 +1,1 @@
-# Wecredit_Chatbot
+# fintech_bot
