@@ -52,18 +52,7 @@ def get_response(prompt):
     except Exception as e:
         return f"An error occurred: {e}"
 
-'''
-def get_response(prompt):
-    try:
-        # Generate content using Gemini model
-        model = genai.GenerativeModel("gemini-1.5-flash")  # Use correct model name
-        response = model.generate_content(prompt)
 
-        # Return the generated text
-        return response.text if hasattr(response, "text") else "No response generated."
-    except Exception as e:
-        return f"An error occurred: {e}"
-'''
 def main():
     st.title("Google GenAI-powered Fintech Chatbot")
     st.write("You can ask me about loans, interest rates, credit reports, and more.")
