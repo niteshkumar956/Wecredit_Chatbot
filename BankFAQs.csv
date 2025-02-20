@@ -1763,3 +1763,13 @@ What is the maximum value for which the Card can be used,"There is no limit impo
 What options should I choose to withdraw cash from the ATM,"Generally, the options available at the ATM for cash withdrawal are Checking, Credit, and Savings. You should choose the Checking/Current option. In case the Checking /Current option is not available, you should select the Credit option.",cards
 What should I do and whom to contact if my card is lost,"In case your card gets lost or stolen, all you have to do is call HDFC Bank Phone Banking immediately and report the loss of your card. This facility is available 24 hrs on all days. The card can also be hotlisted using our Prepaid card NetBanking facility on www.hdfcbank.com",cards
 Are there extra charges to be aware of,"A few things to note - US Banks are given the right to add a surcharge to other bank customers accessing their ATMs. There are also certain ATMs in other countries that may levy a charge for transactions made by non-bank customers. These fees are normally displayed during the transaction. Check for this, so that you can either proceed with or end the transaction.",cards
+ "hello": "Hello there! How can I help you today?",
+        "hi": "Hi! What can I do for you?",
+        "hey": "Hey there! Need any assistance?",
+        "good morning": "Good morning! Hope you have a great day!",
+        "good afternoon": "Good afternoon! How can I assist you?",
+        "good evening": "Good evening! What can I do for you?",
+        "what's up": "Not much! How about you?",
+        "howdy": "Howdy! How can I help?",
+        "greetings": "Greetings! How may I assist you?",
+    
